@@ -1,0 +1,43 @@
+baseURL: 'https://202kk.github.io/'
+languageCode: en-us
+title: My New Hugo Site
+theme: PaperMod
+params:
+  env: production
+  defaultTheme: auto
+  ShowReadingTime: true
+  displayFullLangName: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+  ShowToc: true
+  profileMode:
+    enabled: true
+    Title: "Hi there 🖐️"
+    imageUrl: ''
+    imageTitle: alt image
+    imageWidth: 120
+    imageHeight: 120
+    subtitle: This is subtitle
+  socialIcons:
+    - name: github
+      url: 'https://github.com/202kk'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/hyunjoon-kim-3226a0291/'
+menu:
+  main:
+    - identifier: archives
+      name: archives
+      url: /archives/
+    - identifier: posts
+      name: posts
+      url: /posts/
+    - identifier: search
+      name: search
+      url: /search/
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON
