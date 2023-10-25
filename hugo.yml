@@ -12,8 +12,12 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   ShowRssButtonInSectionTermList: true
-  ShowAllPagesInArchive: true
+  # ShowAllPagesInArchive: true
   ShowToc: true
+  # Sections to show in archive
+  mainSections:
+    - posts
+    - publications
   profileMode:
     enabled: true
     Title: "Hi there 🖐️"
@@ -35,8 +39,12 @@ label:
     
 menu:
   main:
-    - identifier: archives
-      name: archives
+    - identifier: About me
+      name: About me
+      url: /about-me/
+      # weight: 50
+    - identifier: archive
+      name: archive
       url: /archives/
     - identifier: posts
       name: posts
