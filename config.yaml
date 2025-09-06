@@ -122,23 +122,23 @@ menu:
     - identifier: About
       name: "About me"
       url: /about_me/
-      weight: 30
+      weight: 10
     - identifier: categories
-      name: categories
+      name: Categories
       url: /categories/
       weight: 10
     - identifier: tags
-      name: tags
+      name: Tags
       url: /tags/
       weight: 20
     - identifier: search
       name: Search
       url: /search/
-      weight: 20
+      weight: 30
 
 services:
   disqus:
-    shortname: "202kk.github.io"
+    shortname: "202kk"
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
