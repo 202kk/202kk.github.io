@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>202kk.github.io</title>
+    <link>https://202kk.github.io/</link>
+    <description>Recent content on 202kk.github.io</description>
+    <image>
+      <title>202kk.github.io</title>
+      <url>https://202kk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://202kk.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.4</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 06 Sep 2025 13:51:45 +0900</lastBuildDate>
+    <atom:link href="https://202kk.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://202kk.github.io/posts/first-post/</link>
+      <pubDate>Sat, 06 Sep 2025 13:51:45 +0900</pubDate>
+      <guid>https://202kk.github.io/posts/first-post/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About Hyunjoon Kim</title>
+      <link>https://202kk.github.io/about_me/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://202kk.github.io/about_me/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Name : Hyunjoon Kim&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Education&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;2024.03 - present Yonsei University, M.S in Artificial Intelligence&lt;br&gt;
+&lt;a href=&#34;https://bdai.yonsei.ac.kr/&#34;&gt;BDAI&lt;/a&gt; Prof. Kwanghyun Park&lt;/li&gt;
+&lt;li&gt;2018.03 - 2024.02 Yonsei University, B.S in Computer Science&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Publication&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Exqutor: Extended Query Optimizer for Vector-augmented Analytical Queries : ICDE - Under review&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Skills&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PostgreSQL, DuckDB, SQL, Python, C++, Go&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
